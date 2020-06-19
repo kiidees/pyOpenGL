@@ -17,4 +17,8 @@ _"python objviewer.py Charizard/Charizard.obj"_
 
 _Aqui se muestran algunas capturas de la ejecución:_
 
+[![Comando Inicial](https://github.com/kiidees/pyOpenGL/blob/master/img/cmd0.jpg)]
 
+[![Resultados en puntos de los 3 ejes cartesianos](https://github.com/kiidees/pyOpenGL/blob/master/img/cmd.jpg)]
+
+[![Ventana de ejecución](https://github.com/kiidees/pyOpenGL/blob/master/img/ventana.jpg)]
