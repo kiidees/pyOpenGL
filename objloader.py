@@ -1,6 +1,5 @@
 # Basic objloader from:
 #  Original por http://www.pygame.org/wiki/OBJFileLoader
-#  Ajustes por altaruru: http://www.altaruru.com
 #  >> resolucion errores a python3, carga de archivos y recursos en directorios distintos a script/codigo
 
 import pygame

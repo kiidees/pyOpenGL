@@ -1,6 +1,5 @@
 # Basic OBJ file viewer. needs objloader from:
 #  Original por http://www.pygame.org/wiki/OBJFileLoader
-#  Ajustes por altaruru: http://www.altaruru.com
 #  >> correcciones a la carga desde directorios distintos a origen
 #  >> reposicionamiento inicial objeto
 # LMB + move: rotate
